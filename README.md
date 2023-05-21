@@ -1,7 +1,7 @@
 <h1>Dagan Gilat</h1><br/>
 <h2>
-Architect<br/>, <br/> 
-Backend developer<br/>
+- Architect<br/> 
+- Backend developer<br/>
 </h2>
 <h2>Software Development Projects:</h2>
 - <b>Chatbot (Go)</b><br/>
