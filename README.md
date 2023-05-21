@@ -1,17 +1,18 @@
-<h1>Hi, I'm Dagan! <br/>
-<a href="https://github.com/dagangilat">Architect</a>, 
-<a href="https://www.linkedin.com/in/dagangilat/">Backend developer</a>
-</h1>
+<h1>Dagan Gilat</h1><br/>
+<h2>
+Architect<br/>, <br/> 
+Backend developer<br/>
+</h2>
 <h2>Software Development Projects:</h2>
-- <b>Chatbot (Go)</b><br>
-- <b>Blog (Go)</b><br>
-- <b>Captive Portal (Go)</b><br>
-<br>
-<br>
+- <b>Chatbot (Go)</b><br/>
+- <b>Blog (Go)</b><br/>
+- <b>Captive Portal (Go)</b><br/>
+<br/>
+<br/>
   
 <h2>Connect with me:</h2>
-
-<img align="left" alt="Dagan Gilat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<img align="left" alt="Dagan Gilat | LinkedIn" width="22px" 
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></img>
 <a href="https://www.linkedin.com/in/dagangilat/">LinkedIn</a>
 
 <!--
