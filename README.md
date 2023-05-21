@@ -1,14 +1,17 @@
-<h1>Hi, I'm Dagan! <br/><a href="https://github.com/dagangilat">Architect</a>, <a href="https://www.linkedin.com/in/dagangilat/">Backend developer</a></h1>
-<h2>👨‍💻 Software Development Projects:</h2>
-- <b></b>
-- <b></b>
-- <b></b>
+<h1>Hi, I'm Dagan! <br/>
+<a href="https://github.com/dagangilat">Architect</a>, 
+<a href="https://www.linkedin.com/in/dagangilat/">Backend developer</a>
+</h1>
+<h2>Software Development Projects:</h2>
+- <b>Chatbot (Go)</b>
+- <b>Blog (Go)</b>
+- <b>Captive Portal (Go)</b>
   
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 <img align="left" alt="Dagan Gilat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-[linkedin]: https://www.linkedin.com/in/dagangilat/
+<a href="https://www.linkedin.com/in/dagangilat/">LinkedIn</a>
 
 <!--
 **dagangilat/dagangilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
