@@ -3,11 +3,12 @@
 <a href="https://www.linkedin.com/in/dagangilat/">Backend developer</a>
 </h1>
 <h2>Software Development Projects:</h2>
-- <b>Chatbot (Go)</b>
-- <b>Blog (Go)</b>
-- <b>Captive Portal (Go)</b>
+- <b>Chatbot (Go)</b><br>
+- <b>Blog (Go)</b><br>
+- <b>Captive Portal (Go)</b><br>
+<br>
+<br>
   
-
 <h2>Connect with me:</h2>
 
 <img align="left" alt="Dagan Gilat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
