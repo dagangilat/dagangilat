@@ -3,6 +3,9 @@
 - Architect<br/> 
 - Backend developer<br/>
 </h2>
+<h2>
+  - <a href=https://dagangilat.netlify.app/> Dagan's site</a>
+</h2>
 <h2>Software Development Projects:</h2>
 - <b>Chatbot (Go)</b><br/>
 - <b>Blog (Go)</b><br/>
