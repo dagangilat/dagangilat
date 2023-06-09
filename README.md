@@ -2,12 +2,6 @@
 <h2>
 -Researcher, Architect, Software Developer<br/> 
 </h2>
-<h2>Software Development Projects:</h2>
-- <b>Chatbot (Go)</b><br/>
-- <b>Blog (Go)</b><br/>
-- <b>Captive Portal (Go)</b><br/>
-<br/>
-<br/>
   
 <h2>Connect with me:</h2>
 <img align="left" alt="Dagan Gilat | LinkedIn" width="22px" 
