@@ -2,11 +2,6 @@
 <h2>
 -Researcher, Architect, Software Developer<br/> 
 </h2>
-  
-<h2>Connect with me:</h2>
-<img align="left" alt="Dagan Gilat | LinkedIn" width="22px" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></img>
-<a href="https://www.linkedin.com/in/dagangilat/">LinkedIn</a>
 
 <!--
 **dagangilat/dagangilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
