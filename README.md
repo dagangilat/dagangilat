@@ -1,6 +1,6 @@
 <h1>Dagan Gilat</h1><br/>
 <h2>
--Researcher, Architect, Software Developer<br/> 
+Researcher, Architect, Software Developer<br/> 
 </h2>
 
 <!--
