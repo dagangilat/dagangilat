@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://foundation-global.com">
-    <img src="./assets/foundation-pillars.png" alt="Foundation: Your Voice. Your Share. Your Market." width="600"/>
+    <img src="https://foundation-global.com/favicon.svg" alt="Foundation" width="72" height="72"/>
   </a>
 </p>
 
@@ -11,6 +11,12 @@
 <p align="center">
   Building <a href="https://github.com/PlantagoAI-com"><b>PlantagoAI</b></a> — a three-pillar
   ecosystem returning <b>voice</b>, <b>share</b>, and <b>market</b> to verified humans.
+</p>
+
+<p align="center">
+  <a href="https://foundation-global.com">
+    <img src="./assets/foundation-pillars.png" alt="Foundation: Your Voice. Your Share. Your Market." width="460"/>
+  </a>
 </p>
 
 <p align="center">
