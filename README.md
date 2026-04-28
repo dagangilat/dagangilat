@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://foundation-global.com/favicon.svg" alt="Foundation" width="72" height="72"/>
+  <a href="https://foundation-global.com">
+    <img src="./assets/foundation-pillars.png" alt="Foundation: Your Voice. Your Share. Your Market." width="600"/>
+  </a>
 </p>
 
 <h1 align="center">Dagan Gilat</h1>
