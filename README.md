@@ -1,19 +1,35 @@
-<h1>Dagan Gilat</h1><br/>
-<h2>
-Researcher, Architect, Software Developer<br/> 
-</h2>
+# Dagan Gilat
 
-<!--
-**dagangilat/dagangilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Researcher · Architect · Software Developer**
 
-Here are some ideas to get you started:
+Building **[PlantagoAI](https://github.com/PlantagoAI-com)** — a three-pillar ecosystem
+returning voice, share, and market to verified humans.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently shipping
+
+🏛️ **[Foundation Global](https://foundation-global.com)** — Verified-human governance
+on Solana. Privacy-first identity layer (NFC passport read + zero-knowledge proof of
+authenticity + on-device liveness). Zero PII retention by construction. Invitation-only
+pilot on Solana devnet.
+
+Three pillars on one verified-human identity layer:
+
+- **Your Voice** — community governance
+- **Your Share** — pooled community funds
+- **Your Market** — collective purchasing
+
+## Stack signals
+
+- **Frontend**: TypeScript · React · Vite · SwiftUI
+- **Backend**: Firebase Cloud Functions · Node.js · Anchor (Solana, Rust)
+- **Identity & ZK**: Self Protocol · Semaphore · iOS App Attest · Secure Enclave · NFC ePassport
+- **AI**: Anthropic Claude (with prompt caching) · Google Generative AI
+
+## Other recent work
+
+A handful of personal projects across AI, health, governance, and travel — most are
+private pilot-stage.
+
+## Elsewhere
+
+🌐 [dagangilat.com](https://dagangilat.com) · 💼 [Foundation Global](https://foundation-global.com)
