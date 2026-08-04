@@ -58,4 +58,4 @@ private pilot-stage.
 
 ## 🔗 Elsewhere
 
-🌐 [dagangilat.com](https://dagangilat.com) · 💼 [Foundation Global](https://foundation-global.com) · 🏢 [PlantagoAI](https://plantagoaicom)
+🌐 [dagangilat.com](https://dagangilat.com) · 💼 [Foundation Global](https://foundation-global.com) · 🏢 [PlantagoAI](https://plantagoai.com)
